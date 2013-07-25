@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/wjessop/rolling_timeout.png)](https://travis-ci.org/wjessop/rolling_timeout)
+
 # RollingTimeout
 
 A timeout class with a rolling window. Call reset to reset the timer back to 0, stop and start do what you might expect.
